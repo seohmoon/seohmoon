@@ -1,9 +1,17 @@
 # seohmoon
-
+![header](https://capsule-render.vercel.app/api?type=Soft&color=DCF0BE&text=seohmoon👩🏻‍💻&fontSize=50&fontColor=353535)
 ![readme_image](https://user-images.githubusercontent.com/91946571/176243255-7babbb0f-fe7c-4a12-b327-198c75d25588.png)
+
+
+### :books: Education & Career
+
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
+- 42 SEOUL La Pischine 5th (2021.10 - 2022.10)
+
 
 ![seohmoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohmoon&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzppap)](https://solved.ac/zzzppap/)
+
 # 💪Skills
 ### Platforms & Languages
 
