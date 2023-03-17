@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=DCF0BE&text=seohmoon👩🏻‍💻&fontSize=50&fontColor=353535)
 
 <p align="center">
-  Hi!🙋🏻‍♀️ I'm interested in frontend & backend develop, MSA. <br />
+  Hi!🙋🏻‍♀️ I'm interested in frontend & iOS. <br />
   ___
 </p>
 
@@ -10,8 +10,9 @@
 
 ### 👩🏻‍🎓 Education & Career
 
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
-- 42 SEOUL La Pischine 5th (2021.10 - 2022.10)
+- Apple Developer Academy @ POSTECH 2th (2023.03 - present)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
+- 42 SEOUL La Pischine 5th (2021.10 - 2021.10)
 
 
 
