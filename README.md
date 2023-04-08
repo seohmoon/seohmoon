@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=DCF0BE&text=seohmoon👩🏻‍💻&fontSize=50&fontColor=353535)
 
 <p align="center">
-  Hi!🙋🏻‍♀️ I'm interested in frontend & iOS. <br />
+  Hi!🙋🏻‍♀️ I'm interested in Frontend & iOS. <br />
   ___
 </p>
 
